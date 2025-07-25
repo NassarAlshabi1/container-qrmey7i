@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "NassarAlshabi1",
+  "repo": "container-qrmey7i",
+  "name": "NassarAlshabi1",
+  "email": "adenmarina2@gmail.com",
+}
